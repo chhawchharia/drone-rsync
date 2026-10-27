@@ -1,7 +1,5 @@
 module github.com/drone-plugins/drone-rsync
 
-go 1.26.10
-
 require (
 	github.com/drone/drone-go v0.0.0-20160502151758-eaa41f7836a1
 	golang.org/x/crypto v0.0.0-20190208162236-193df9c0f06f
